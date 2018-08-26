@@ -118,6 +118,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 ##### Markdown & HTML
 
 - [Writing with Markdown for Better Content & HTML: Why & How To](https://moz.com/blog/markdown)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [The i, b, em, and strong elements](http://html5doctor.com/i-b-em-strong-element/)
 
 ##### GitHub

@@ -72,7 +72,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
     - Recommendation: Use a web font for headings/subheadings and a web-safe font for body text
 
         - Didot has [~93% support on iOS/Mac and 0% support on Android/Win](https://www.cssfontstack.com/Didot)
-        - Use Didot for headings, with a web font as a fallback (e.g. ([GFS Didot](https://fontlibrary.org/en/font/gfs-didot))
+        - Use Didot for headings, with a web font as a fallback (e.g. [GFS Didot](https://fontlibrary.org/en/font/gfs-didot))
 
           - [Compare](http://webfont-test.com) Didot and GFS Didot (et al.) side by side and overlaid for size and line length comparison
 

@@ -38,8 +38,9 @@ Initial week focusing on the process of Fisk and the process of designing with a
 #### In Class
 
 - Introduction to Content First, Mobile First
-- Our Process section in Markdown
-- Review Syllabus
+- Markdown as a content first approach to structure essential page content
+- Style tiles as a first step in developing a style guide
+- Review syllabus (and Week 1 schedule)
 
 #### Tasks
 

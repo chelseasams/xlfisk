@@ -44,7 +44,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 #### Tasks
 
-1. Our Process Section
+1. Our Process Page
 
   - Review content
   - Markup content first with Markdown (content source)
@@ -178,8 +178,8 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 #### In Class
 
-- Review Our Process section prototype using [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) in Chrome DevTools.
-- Prep and handoff Our Process section to Style Title team
+- Review Our Process page prototype using [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) in Chrome DevTools.
+- Prep and handoff Our Process page to Style Title team
 
   - Convert MD as HTML
   - [Validate HTML](https://validator.w3.org/nu/)
@@ -189,7 +189,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
   - Meeting with Justin Gagne from 4–5 p.m.
 
     - Build basic HTML/CSS style title template based on research and tests conducted by the team
-    - Apply basic style guide to Our Process section
+    - Apply basic style guide to Our Process page
 
 ## Week 2
 

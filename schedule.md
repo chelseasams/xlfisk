@@ -181,15 +181,17 @@ Initial week focusing on the process of Fisk and the process of designing with a
 - Review Our Process page prototype using [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) in Chrome DevTools.
 - Prep and handoff Our Process page to Style Title team
 
-  - Convert MD as HTML
+  - Convert MD to HTML
   - [Validate HTML](https://validator.w3.org/nu/)
+  - Handoff both MD and HTML files
 
 - Style Tile team
 
   - Meeting with Justin Gagne from 4–5 p.m.
 
+    - Update Our Process page HTML with necessary sectioning elements (see MD for reference)
     - Build basic HTML/CSS style title template based on research and tests conducted by the team
-    - Apply basic style guide to Our Process page
+    - Apply basic styles to Our Process page
 
 ## Week 2
 

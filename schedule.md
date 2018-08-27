@@ -144,9 +144,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 #### Homework
 
 - Read [About Us](http://www.cbfisk.com/company/about) and entire [Our Process](http://www.cbfisk.com/process) section (including all subsections: Request for Information, Request for Proposal, etc.)
-- Enroll in the free online course
-
-  [<cite>Defeating Busy</cite>](https://thegymnasium.com/courses/GYM/001/0/about)
+- Enroll in the free online course <cite>[Defeating Busy](https://thegymnasium.com/courses/GYM/001/0/about)</cite>
 
   - Complete the course (about 1 hour of video content)
   - Take the final exam and earn a badge

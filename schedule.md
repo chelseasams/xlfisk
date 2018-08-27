@@ -30,7 +30,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 ### Wednesday, August 29
 
-### Goals
+#### Goals
 
 1. Markup basic internal page navigation (list) and sections (headings, paragraphs, lists, and links)
 2. Develop basic typographic styles for body text and link, lists, and headings (and images [figures/captions] if resources are available)
@@ -171,7 +171,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 ### Wednesday, September 5
 
-### Goals
+#### Goals
 
 1. Markup basic internal page navigation (list) and sections (headings, paragraphs, lists, and links)
 2. Develop basic typographic styles for body text and link, lists, and headings (and images [figures/captions] if resources are available)

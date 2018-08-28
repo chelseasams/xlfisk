@@ -60,6 +60,8 @@ Initial week focusing on the process of Fisk and the process of designing with a
       - Consider content flow: jump to section (local) navigation, instead of separate pages; back to top links per section to jump back to local navigation; etc.
       - Test user experience on mobile (small screen) devices
 
+    - See [`markdown-tmpl.md`](handouts/week-1/markdown-tmpl.md) for starter Markdown page template
+
 2. Branding Style Guide (Style Tile)
 
   - Review existing print-based styles

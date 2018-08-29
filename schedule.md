@@ -32,11 +32,13 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 #### Goals
 
-1. Markup basic internal page navigation (list) and sections (headings, paragraphs, lists, and links)
-2. Develop basic typographic styles for body text and link, lists, and headings (and images [figures/captions] if resources are available)
+1. Introductions and team assignments
+2. Markup basic internal page navigation (list) and sections (headings, paragraphs, lists, and links)
+3. Develop basic typographic styles for body text and link, lists, and headings (and images [figures/captions] if resources are available)
 
 #### In Class
 
+- Team building, skill survey
 - Introduction to Content First, Mobile First
 - Markdown as a content first approach to structure essential page content
 - Style tiles as a first step in developing a style guide
@@ -138,7 +140,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 ##### Color
 
-- [Accessbile Colors](http://accessible-colors.com)
+- [Accessible Colors](http://accessible-colors.com)
 - [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
 - [Scale](https://hihayk.github.io/scale/) Color scale generator.
 - [ColorHexa](https://www.colorhexa.com)
@@ -161,7 +163,7 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 - [Harvard Organ Recital](https://memorialchurch.harvard.edu/event/organ-recital) at 7:30–8:45 p.m.
 
-  - (Optional/required? [add note])
+  - At least one member from each team should attend
 
 #### Directions
 

@@ -111,14 +111,23 @@ Initial week focusing on the process of Fisk and the process of designing with a
 - [How Chunking Helps Content Processing](https://www.nngroup.com/articles/chunking/)
 - [Designing For Micro-Moments](https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/)
 
-##### Type & Color
+##### Style Tiles & Guides
 
 - [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work)
+- [Creating Style Guides](https://alistapart.com/article/creating-style-guides)
+
+##### Type
+
 - [What is Typesetting?](https://alistapart.com/article/flexible-typesetting)
-- [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
-- [Type in History: The Didones](https://www.sessions.edu/notes-on-design/type-in-history-the-didones/)
 - [How Typography Determines Readability: Serif vs. Sans Serif, and How To Combine Fonts](https://medium.freecodecamp.org/how-typography-determines-readability-serif-vs-sans-serif-and-how-to-combine-fonts-629a51ad8cce)
+- [The Typographic Scale](http://spencermortensen.com/articles/typographic-scale/)
+- [Type in History: The Didones](https://www.sessions.edu/notes-on-design/type-in-history-the-didones/)
 - [Web Typography & Layout: Past, Present, and Future](https://alistapart.com/event/web-typography-layout-past-present-future) `video`
+
+##### Color
+
+- [Designing for Accessibility, Step 1: Color Contrast](https://uxdesign.cc/the-easiest-part-about-designing-accessible-websites-76cd6b9a7ae4)
+- [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
 
 ##### Markdown & HTML
 
@@ -138,12 +147,17 @@ Initial week focusing on the process of Fisk and the process of designing with a
 - [Font Family Reunion](http://fontfamily.io)
 - [Webfont Test](http://webfont-test.com) Test and analyze your favorite web fonts.
 
+##### Typographic Scale
+
+- [Type Scale](http://type-scale.com) — A visual calculator.
+
 ##### Color
 
 - [Accessible Colors](http://accessible-colors.com)
 - [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
 - [Scale](https://hihayk.github.io/scale/) Color scale generator.
 - [ColorHexa](https://www.colorhexa.com)
+- [HTML Color Codes](https://htmlcolorcodes.com)
 
 #### Homework
 

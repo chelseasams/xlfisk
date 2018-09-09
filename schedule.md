@@ -213,9 +213,49 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
 ## Week 2
 
+A deeper dive into content and the concerns of modern front-end web development.
+
 ### Monday, September 10
 
 #### Goals
 
-1. Structure [Our Company](http://www.cbfisk.com/company/about) (About Us/Our People) Section
-2. Structure and style header (brand) and primary navigation (menu)
+1. Introduction to front-end web development
+2. Familiarization with client content
+ 
+#### In Class
+
+- Review Homework
+
+  - Our Process page prototype 
+  - Font style prototypes
+  - Discuss <cite>[Defeating Busy](https://thegymnasium.com/courses/GYM/001/0/about)</cite>
+    - Post badges on Slack
+
+- Lecture: front-end web development
+- Assess and map current [Fisk website](http://www.cbfisk.com) 
+
+  - Discuss proposed sitemap and new content 
+  - Review work from previous semester
+
+##### Known Fisk Competitors
+
+- [Taylor and Boody](https://www.taylorandboody.com)
+- [Richards, Fowkes & Co.](http://www.richardsfowkes.com)
+- [Dobson](http://www.dobsonorgan.com)
+
+#### Homework
+
+- Research Fisk competitors and be prepared to present your findings and evaluation of their websites
+- Revise prototypes taking into account feedback from class 
+
+### Wednesday, September 12
+
+#### Goals
+
+1. Introduction to Accessibility
+
+##### Accessibility resources
+
+- [WAVE](https://wave.webaim.org) (web accessibility evaluation tool)
+- [Accessible Colors](http://accessible-colors.com)
+- [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)

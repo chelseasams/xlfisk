@@ -221,20 +221,20 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 1. Introduction to front-end web development
 2. Familiarization with client content
- 
+
 #### In Class
 
 - Review Homework
 
-  - Our Process page prototype 
+  - Our Process page prototype
   - Font style prototypes
   - Discuss <cite>[Defeating Busy](https://thegymnasium.com/courses/GYM/001/0/about)</cite>
     - Post badges on Slack
 
 - Lecture: front-end web development
-- Assess and map current [Fisk website](http://www.cbfisk.com) 
+- Assess and map current [Fisk website](http://www.cbfisk.com)
 
-  - Discuss proposed sitemap and new content 
+  - Discuss proposed sitemap and new content
   - Review work from previous semester
 
 ##### Known Fisk Competitors
@@ -246,16 +246,64 @@ A deeper dive into content and the concerns of modern front-end web development.
 #### Homework
 
 - Research Fisk competitors and be prepared to present your findings and evaluation of their websites
-- Revise prototypes taking into account feedback from class 
+- Revise prototypes taking into account feedback from class
 
 ### Wednesday, September 12
 
 #### Goals
 
 1. Introduction to Accessibility
+2. Introduction to Prototyping
 
-##### Accessibility resources
+  - Review, discuss, and prototype information architecture of site navigation
+  - Review [Navigation Summary](https://www.youtube.com/watch?v=SpJFavEB18Y)report in Google Analytics
+
+#### Tasks
+
+1. Prototype primary navigation for small (mobile) and wide (tablet/laptop/desktop) screens
+
+  - Existing primary, header navigation:
+
+    - The Process
+    - Our Company
+    - Instruments
+
+  - Existing secondary, footer navigation:
+
+    - Concert Calendar
+    - Discography
+    - Newsletter
+    - Contact Us
+    - Facebook
+
+#### Homework
+
+- Prototype Case Study page for small (mobile) and wide (tablet/laptop/desktop) screens (on paper and/or in text [Markdown])
+
+#### Readings
+
+##### Navigation Patterns
+
+- [The Hamburger Menu Doesn't Work](http://responsivelogos.co.uk)
+
+##### Progressive Enhancement
+
+- [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
+- [The Power of Progressive Enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009)
+
+##### Prototyping
+
+- [Paper Prototyping](https://alistapart.com/article/paperprototyping)
+
+#### Tools
+
+##### Accessibility
 
 - [WAVE](https://wave.webaim.org) (web accessibility evaluation tool)
 - [Accessible Colors](http://accessible-colors.com)
 - [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
+
+##### Prototyping
+
+- [Printable Grids for Design Wireframing](http://sneakpeekit.com)
+- [HTML Builder Prototype](http://dev.artequalswork.com/builder/) (web-based)

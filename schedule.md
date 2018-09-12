@@ -256,7 +256,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 2. Introduction to Prototyping
 
   - Review, discuss, and prototype information architecture of site navigation
-  - Review [Navigation Summary](https://www.youtube.com/watch?v=SpJFavEB18Y)report in Google Analytics
+  - Review [Navigation Summary](https://www.youtube.com/watch?v=SpJFavEB18Y) report in Google Analytics
 
 #### Tasks
 

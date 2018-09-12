@@ -285,6 +285,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Navigation Patterns
 
 - [The Hamburger Menu Doesn't Work](http://jamesarcher.me/hamburger-menu)
+- [Hamburger Menu Alternatives for Mobile Navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
 
 ##### Progressive Enhancement
 

@@ -284,7 +284,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 ##### Navigation Patterns
 
-- [The Hamburger Menu Doesn't Work](http://responsivelogos.co.uk)
+- [The Hamburger Menu Doesn't Work](http://jamesarcher.me/hamburger-menu)
 
 ##### Progressive Enhancement
 

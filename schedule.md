@@ -96,6 +96,16 @@ Initial week focusing on the process of Fisk and the process of designing with a
 
     - Images (figure/caption)
 
+#### Homework
+
+- Read [About Us](http://www.cbfisk.com/company/about) and entire [Our Process](http://www.cbfisk.com/process) section (including all subsections: Request for Information, Request for Proposal, etc.)
+- Enroll in the free online course <cite>[Defeating Busy](https://thegymnasium.com/courses/GYM/001/0/about)</cite>
+
+  - Complete the course (about 1 hour of video content)
+  - Take the final exam and earn a badge
+  - Share badge with class for homework credit; Share on LinkedIn (optional)
+  - Create a takeaways list, for defeating busy, in markdown (for daily personal use)
+
 #### Lectures
 
 - [Paul Rand Retrospective](https://vimeo.com/8930131) Form and content; content and form. `video`
@@ -158,16 +168,6 @@ Initial week focusing on the process of Fisk and the process of designing with a
 - [Scale](https://hihayk.github.io/scale/) Color scale generator.
 - [ColorHexa](https://www.colorhexa.com)
 - [HTML Color Codes](https://htmlcolorcodes.com)
-
-#### Homework
-
-- Read [About Us](http://www.cbfisk.com/company/about) and entire [Our Process](http://www.cbfisk.com/process) section (including all subsections: Request for Information, Request for Proposal, etc.)
-- Enroll in the free online course <cite>[Defeating Busy](https://thegymnasium.com/courses/GYM/001/0/about)</cite>
-
-  - Complete the course (about 1 hour of video content)
-  - Take the final exam and earn a badge
-  - Share badge with class for homework credit; Share on LinkedIn (optional)
-  - Create a takeaways list, for defeating busy, in markdown (for daily personal use)
 
 ### Monday, September 3
 
@@ -325,6 +325,10 @@ A deeper dive into content and the concerns of modern front-end web development.
  - Exposure menu without dropdown (hamburger)
  - Simply and clarify menu labels
 
+#### Homework
+
+- Prototype Revised Navigation for small (mobile) and wide (tablet/laptop/desktop) screens
+
 #### Readings
 
 ##### Navigation Guidelines
@@ -334,10 +338,6 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Writing Guidelines
 
 - [Plain Language Is for Everyone, Even Experts](https://www.nngroup.com/articles/plain-language-experts/) (Apply to navigation.)
-
-#### Homework
-
-- Prototype Revised Navigation for small (mobile) and wide (tablet/laptop/desktop) screens
 
 ### Wednesday, September 19
 
@@ -375,5 +375,3 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Adobe XD
 
 - [How To Create Icons In Adobe XD](https://www.smashingmagazine.com/2016/07/how-to-create-icons-adobe-xd/)
-
-

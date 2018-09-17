@@ -308,3 +308,67 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 - [HTML Builder Prototype](http://dev.artequalswork.com/builder/) (web-based)
+
+## Week 3
+
+### Monday, September 17
+
+#### Goals
+
+1. Develop primary navigation
+
+#### In Class
+
+- Review, discuss, and prototype primary navigation
+
+ - Compare competitors
+ - Exposure menu without dropdown (hamburger)
+ - Simply and clarify menu labels
+
+#### Readings
+
+##### Navigation Guidelines
+
+- [Menu Design: Checklist of 15 UX Guidelines to Help Users](https://www.nngroup.com/articles/menu-design/)
+
+##### Writing Guidelines
+
+- [Plain Language Is for Everyone, Even Experts](https://www.nngroup.com/articles/plain-language-experts/) (Apply to navigation.)
+
+### Wednesday, September 19
+
+#### Goals
+
+1. Develop responsive branding for Fisk header (web and print [spec data sheets])
+2. Develop Our Process page
+
+#### In Class
+
+- Review, discuss, and prototype branding: Logotype, slogan, favicon, etc.
+- Review, discuss, and prototype Our Process page
+
+#### Homework
+
+- Design new Fisk favicon
+
+ - lo-fi `16px × 16px` version (consider using graph paper)
+ - hi-fi `256px × 256px` version (design as vector using [Adobe XD](https://www.adobe.com/products/xd.html) [free for Mac/PC])
+
+#### Readings
+
+##### Favicon
+
+- [How We Got the Favicon](https://thehistoryoftheweb.com/how-we-got-the-favicon/)
+- [How to Make a Favicon](http://blog.teamtreehouse.com/how-to-make-a-favicon)
+
+##### Responsive Branding
+
+- [Responsive Logos](http://responsivelogos.co.uk)
+
+#### Tutorials
+
+##### Adobe XD
+
+- [How To Create Icons In Adobe XD](https://www.smashingmagazine.com/2016/07/how-to-create-icons-adobe-xd/)
+
+

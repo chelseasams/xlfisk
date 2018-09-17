@@ -335,6 +335,10 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - [Plain Language Is for Everyone, Even Experts](https://www.nngroup.com/articles/plain-language-experts/) (Apply to navigation.)
 
+#### Homework
+
+- Prototype Revised Navigation for small (mobile) and wide (tablet/laptop/desktop) screens
+
 ### Wednesday, September 19
 
 #### Goals

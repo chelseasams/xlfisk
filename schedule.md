@@ -368,7 +368,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Responsive Branding
 
 - [Responsive Logos](http://responsivelogos.co.uk)
-- [Centered Logos Hurt Website Navigation](https://www.nngroup.com/articles/plain-language-experts/)
+- [Centered Logos Hurt Website Navigation](https://www.nngroup.com/articles/centered-logos/)
 
 #### Tutorials
 

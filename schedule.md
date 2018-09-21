@@ -278,13 +278,18 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### Homework
 
-- Prototype Case Study page for small (mobile) and wide (tablet/laptop/desktop) screens (on paper and/or in text [Markdown])
+- Prototype Primary Navigation for small (mobile) and wide (tablet/laptop/desktop) screens (on paper and/or in text [Markdown])
 
 #### Readings
+
+##### Accessibility
+
+- [To Make Your Product Accessible, Consider Accessibility at Each Stage of the Design Process](https://medium.com/@jessicaivins/to-make-your-product-accessible-consider-accessibility-at-each-stage-of-the-design-process-5b09fc188c9e)
 
 ##### Navigation Patterns
 
 - [The Hamburger Menu Doesn't Work](http://jamesarcher.me/hamburger-menu)
+- [3 Good Reasons Why You Might Want to Remove that Hamburger Menu from Your Product](https://medium.muz.li/3-good-reason-why-you-might-want-to-remove-that-hamburger-menu-from-your-product-69b9499ba7e2)
 - [Hamburger Menu Alternatives for Mobile Navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8)
 
 ##### Progressive Enhancement

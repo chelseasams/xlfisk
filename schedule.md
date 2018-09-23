@@ -380,3 +380,42 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Adobe XD
 
 - [How To Create Icons In Adobe XD](https://www.smashingmagazine.com/2016/07/how-to-create-icons-adobe-xd/)
+
+## Week 4
+
+### Monday, September 24
+
+#### Goals
+
+1. Prepare for Fisk visit
+
+#### In Class
+
+- Review, and discuss favicon designs
+- Revise Our Process page
+- Practice presentation
+
+  - Discuss presentation tips and strategies
+  - Divide content and develop draft presentation
+  - Practice presentation as a group
+
+#### Homework
+
+- Practice presentation
+- Complete revisions to Our Process, Navigation
+
+#### Readings
+
+- [Ten Tips for Improving Your Public Speaking Skills](https://www.extension.harvard.edu/professional-development/blog/10-tips-improving-your-public-speaking-skills)
+- [Five Basic Public Speaking Tips](https://youtu.be/AykYRO5d_lI) `video`
+
+### Wednesday, September 26
+
+#### Goals
+
+1. Present Progress to Fisk employees
+2. Tour the shop, meet the staff, learn the context behind the Content
+
+#### In Class
+
+- Meet at the checkerboard of the Hardie Building, the bus will leave at 3:30pm

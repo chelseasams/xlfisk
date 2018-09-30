@@ -419,3 +419,74 @@ A deeper dive into content and the concerns of modern front-end web development.
 #### In Class
 
 - Meet at the checkerboard of the Hardie Building, the bus will leave at 3:30pm
+
+## Week 5
+
+### Monday, October 1
+
+#### Goals
+
+1. Discuss structural (HTML) and presentational (CSS) markup as an enhancement to content
+2. Wireframe Our Process page for mobile first
+
+#### Lecture
+
+##### Designers Need to Sketch and Prototype More
+
+- [2015 Maker Series Recap: Dan Mall](https://seesparkbox.com/foundry/maker_series_recap_dan_mall_2015)
+- [TechCrunch: A Responsive Redesign](http://v3.danielmall.com/articles/techcrunch-responsive-redesign/)
+- [A Faster and More Flexible Home Page that Delivers the News Readers Want](https://open.nytimes.com/a-faster-and-more-flexible-home-page-that-delivers-the-news-readers-want-1522ff64aa86)
+
+#### In Class
+
+- Collaborative wireframing workshop (on whiteboard and paper)
+
+#### Tasks
+
+1. TBA
+2. TBA
+3. TBA
+
+#### Homework
+
+- Wireframe wider breakpoint for tablet or laptop (2× or 3× mobile first)
+
+#### Readings
+
+##### Wireframing
+
+- [Wireframing vs. Pototyping: What’s the Difference?](https://www.invisionapp.com/inside-design/wireframe-prototype-difference/)
+- [How Paper Wireframing Will Make You a Better Designer](https://alexanderskogberg.com/2018/04/paper-wireframing-will-make-you-better-designer/)
+
+##### Progressive Enhancement
+
+- [Enhance!](https://adactio.com/articles/9465) `video`
+
+#### Tools
+
+- [Sneakpeekit](http://sneakpeekit.com) — Free Printable Grids for Design Wireframing
+- [Sketchize](https://sketchize.com) — Free Wireframing Sheets
+
+### Monday, October 3
+
+#### Goals
+
+1. Collaboratively design a mobile first prototype on paper (with design notes [colors, labels, descriptions, etc.]) to prep for "deciding in the browser" with HTML/CSS
+
+#### In Class
+
+- Prototype review and HTML/CSS authoring session with Justin
+
+#### Tasks
+
+1. TBA
+2. TBA
+3. TBA
+
+#### Homework
+
+- Revise prototypes, for small and wider screens, based on what was learned by "deciding in the browser"
+
+#### Readings
+
+- TBA

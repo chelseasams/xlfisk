@@ -467,7 +467,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 - [Sneakpeekit](http://sneakpeekit.com) — Free Printable Grids for Design Wireframing
 - [Sketchize](https://sketchize.com) — Free Wireframing Sheets
 
-### Monday, October 3
+### Wednesday, October 3
 
 #### Goals
 
@@ -475,7 +475,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### In Class
 
-- Prototype review and HTML/CSS authoring session with Justin
+- Prototype review
 
 #### Tasks
 
@@ -485,7 +485,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### Homework
 
-- Revise prototypes, for small and wider screens, based on what was learned by "deciding in the browser"
+- Revise prototypes for small and wider screens
 
 #### Readings
 

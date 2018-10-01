@@ -466,6 +466,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - [Sneakpeekit](http://sneakpeekit.com) — Free Printable Grids for Design Wireframing
 - [Sketchize](https://sketchize.com) — Free Wireframing Sheets
+- [Wireframe.cc](https://wireframe.cc) — Minimal wireframing tool
 
 ### Wednesday, October 3
 

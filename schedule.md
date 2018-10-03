@@ -466,7 +466,8 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### Goals
 
-1. Collaboratively design a mobile first prototype on paper (with design notes [colors, labels, descriptions, etc.]) to prep for "deciding in the browser" with HTML/CSS
+1. Debrief of Fisk presentation and discussion of client feedback
+2. Collaboratively design a mobile first prototype on paper (with design notes [colors, labels, descriptions, etc.]) to prep for "deciding in the browser" with HTML/CSS
 
 #### In Class
 

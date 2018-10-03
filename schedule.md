@@ -441,15 +441,9 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Collaborative wireframing workshop (on whiteboard and paper)
 
-#### Tasks
-
-1. TBA
-2. TBA
-3. TBA
-
 #### Homework
 
-- Wireframe wider breakpoint for tablet or laptop (2× or 3× mobile first)
+- Revise wireframed examples to include color cues and ALL content (including small navigation menu)
 
 #### Readings
 
@@ -476,18 +470,10 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### In Class
 
-- Prototype review
-
-#### Tasks
-
-1. TBA
-2. TBA
-3. TBA
+- Review Homework
+- Whiteboard drawings and discussion of ideas
+- Paper prototyping 
 
 #### Homework
 
-- Revise prototypes for small and wider screens
-
-#### Readings
-
-- TBA
+- Prototypes for small and wider screens

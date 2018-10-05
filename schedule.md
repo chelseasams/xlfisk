@@ -473,8 +473,14 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Review Homework
 - Whiteboard drawings and discussion of ideas
-- Paper prototyping 
+- Paper prototyping
 
 #### Homework
 
 - Prototypes for small and wider screens
+
+#### Readings
+
+##### Prototyping
+
+- [Notes on Prototyping](https://benfrain.com/notes-on-prototyping/)

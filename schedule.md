@@ -484,3 +484,38 @@ A deeper dive into content and the concerns of modern front-end web development.
 ##### Prototyping
 
 - [Notes on Prototyping](https://benfrain.com/notes-on-prototyping/)
+
+## Week 6
+
+> We live in our comfort zones. We need to spend more time in our uncomfortable zone—that’s where creative things happen.
+>
+> —[Stephen Hay](http://www.the-haystack.com)
+
+> Let’s change the phrase ‘designing in the browser’ to ‘deciding in the browser.’
+>
+> —[Brad Frost](http://bradfrost.com/blog/)
+
+### Monday, October 8
+
+- **No Class** (Columbus Day/Indigenous People Day)
+
+#### Homework
+
+- [Get Uncomfortable](https://creativemornings.com/talks/stephen-hay/) —  A talk by Stephen Hay `video`
+- [Designing in the Browser](https://www.youtube.com/watch?v=5J7mq0ogwBI) — Excerpt from an interview with Brad Frost `video`
+- [The Codification of Design](https://snook.ca/archives/design/codification-of-design)
+
+### Wednesday, October 10
+
+#### Goals
+
+1. Begin to translate paper prototype to an in the browser prototype
+
+#### In Class
+
+1. Review prototypes; prep for work session
+2. Deciding in the browser work session with Justin (4–6 p.m.)
+
+#### Homework
+
+- TBA

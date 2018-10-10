@@ -519,3 +519,13 @@ A deeper dive into content and the concerns of modern front-end web development.
 #### Homework
 
 - TBA
+
+#### Readings
+
+- [HTML5 for Web Designers](https://html5forwebdesigners.com)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com)
+
+#### Tools
+
+- [HTML Color Codes](https://htmlcolorcodes.com)
+- [HTML Symbol Codes](http://htmlarrows.com)

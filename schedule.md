@@ -524,6 +524,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - [HTML5 for Web Designers](https://html5forwebdesigners.com)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com)
+- [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html)
 
 #### Tools
 

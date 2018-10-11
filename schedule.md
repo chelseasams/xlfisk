@@ -518,7 +518,9 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### Homework
 
-- TBA
+- Update the Our Process page in Jess' repo in both the HTML and Markdown documents
+- Prototype the Our Process page in Adobe XD
+- Enroll in [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) on Gymnasium
 
 #### Readings
 

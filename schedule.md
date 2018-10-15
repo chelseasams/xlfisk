@@ -532,3 +532,38 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - [HTML Color Codes](https://htmlcolorcodes.com)
 - [HTML Symbol Codes](http://htmlarrows.com)
+
+## Week 7
+
+### Monday, October 15
+
+#### Goals
+
+1. Continue to translate paper and Adobe XD prototypes to an in the browser prototype
+2. The addition of images as content within the Process timeline
+
+#### In Class
+
+1. Review prototypes; prep for work session
+2. Deciding in the browser work session with Justin (4–6 p.m.)
+
+#### Homework
+
+- Begin [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
+
+### Wednesday, October 17
+
+#### Goals
+
+1. Further explore Adobe XD for prototyping
+2. Begin to prototype Case Studies section
+
+#### In Class
+
+1. Collaboratively paper and whiteboard prototype the Case Studies area
+2. Finalize markdown content for Case Study
+
+#### Homework
+
+- Break into teams to further prototype Case Studies
+- Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) on Gymnasium

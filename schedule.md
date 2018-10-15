@@ -551,6 +551,12 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Begin [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
 
+#### Readings
+
+- [Adobe XD User Guide](https://helpx.adobe.com/xd/user-guide.html)
+- [Design, Prototype, and Share with Adobe XD](https://helpx.adobe.com/xd/help/adobe-xd-overview.html)
+- [Hands-on with Adobe XD](https://blog.prototypr.io/hands-on-with-adobe-xd-f82be12f405f)
+
 ### Wednesday, October 17
 
 #### Goals

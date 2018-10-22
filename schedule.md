@@ -573,3 +573,18 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Break into teams to further prototype Case Studies
 - Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) on Gymnasium
+
+## Week 8
+
+### Monday, October 22
+
+#### Goals
+
+1. Define course direction for remainder of semester
+2. Review Case Studies prototype 
+
+#### In Class
+
+1. Discussion of client needs, project priorities
+2. Brainstorming session regarding course direction
+3. Review progress on Case Studies prototype

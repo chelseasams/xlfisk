@@ -588,3 +588,25 @@ A deeper dive into content and the concerns of modern front-end web development.
 1. Discussion of client needs, project priorities
 2. Brainstorming session regarding course direction
 3. Review progress on Case Studies prototype
+
+#### Homework
+
+- Modify the [Case Studies prototype](https://github.com/chimaxine/xlfisk_prototypes) in browser to refine colors
+
+### Wednesday, October 24
+
+#### Goals
+
+1. Continue to refine Case Studies prototype 
+2. Plan documentation of Fisk materials
+3. Strategize for portfolio websites
+
+#### In Class
+
+1. Review Case Studies prototypes 
+2. Work session with Justin (4-6 pm)
+
+#### Homework
+
+- Read [Documenting Design Workflows](https://medium.com/livefront/documenting-design-workflows-6146495d1b52)
+- Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) course

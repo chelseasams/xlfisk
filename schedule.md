@@ -611,6 +611,8 @@ A deeper dive into content and the concerns of modern front-end web development.
 - Read [Documenting Design Workflows](https://medium.com/livefront/documenting-design-workflows-6146495d1b52)
 - Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) course
 
+## Week 9
+
 ### Monday, October 29
 
 #### Goals

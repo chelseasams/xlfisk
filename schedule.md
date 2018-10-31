@@ -610,3 +610,39 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Read [Documenting Design Workflows](https://medium.com/livefront/documenting-design-workflows-6146495d1b52)
 - Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) course
+
+### Monday, October 29
+
+#### Goals
+
+1. Refine Case Studies prototype
+2. Gain confidence with in-browser prototyping
+
+#### In Class
+
+1. Discussion of [Documenting Design Workflows](https://medium.com/livefront/documenting-design-workflows-6146495d1b52)
+2. Review progress on Case Studies prototype
+3. In-browser work session
+
+#### Homework
+
+- Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) and [Responsive Web Design Fundamentals](https://thegymnasium.com/courses/course-v1:GYM+109+0/about) course
+
+#### Reading
+[How to Efficiently Master the CSS Grid in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
+
+### Wednesday, October 31
+
+#### Goals
+
+1. Finish work on Case Studies Prototype
+2. Begin applying applicable styles to the Process Timeline
+
+#### In Class
+
+1. Continue in-browser prototyping
+
+#### Homework
+
+- Prepare a resumé and bring a printed version for Monday's class; see [MontserratWorks](https://www.montserrat.edu/career-services/jobs/) for examples
+- Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) and [Responsive Web Design Fundamentals](https://thegymnasium.com/courses/course-v1:GYM+109+0/about) course

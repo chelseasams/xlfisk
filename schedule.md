@@ -648,3 +648,24 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 - Prepare a resumé and bring a printed version for Monday's class; see [MontserratWorks](https://www.montserrat.edu/career-services/jobs/) for examples
 - Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) and [Responsive Web Design Fundamentals](https://thegymnasium.com/courses/course-v1:GYM+109+0/about) course
+
+## Week 10
+
+### Monday, November 5
+
+#### Goals
+
+1. Learn best practices for creative professional resumés and portfolios
+2. Continue to refine Case Studies prototype
+
+#### In Class
+
+1. Resumé and portfolio workshop with Katherine Mitchell DiRico, Director of Career Services
+2. Review progress on Case Studies prototype
+3. In-browser work session
+
+#### Homework
+
+- Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) and [Responsive Web Design Fundamentals](https://thegymnasium.com/courses/course-v1:GYM+109+0/about) course
+- Refine resumé and portfolio based on workshop and feedback
+

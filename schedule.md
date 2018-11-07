@@ -669,3 +669,39 @@ A deeper dive into content and the concerns of modern front-end web development.
 - Continue [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) and [Responsive Web Design Fundamentals](https://thegymnasium.com/courses/course-v1:GYM+109+0/about) course
 - Refine resumé and portfolio based on workshop and feedback
 
+### Wednesday, November 7
+
+#### Goals
+
+1. Finish work on Case Studies Prototype
+2. Begin applying applicable styles to the Process Timeline
+
+#### In Class
+
+1. Continue in-browser prototyping
+
+#### Homework
+
+- Begin Paper Prototyping Portfolio sites
+- Begin Slide Show for Final Fisk presentation
+
+## Week 11
+
+### Monday, November 12
+
+- **No Class** (Veterans Day)
+
+### Wednesday, November 7
+
+#### Goals
+
+1. Prepare for final presentation with Fisk
+2. Meet and interact with front-end developers in their workplace
+3. Begin initial planning for portfolio sites
+
+#### In Class
+
+1. Review slideshow
+2. Fieldtrip to [The Outfit](https://theout.fit/) (4-5pm)
+3. Finalize Case Study and Our Process pages for presentation
+

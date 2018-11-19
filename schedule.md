@@ -731,7 +731,8 @@ A deeper dive into content and the concerns of modern front-end web development.
 #### Homework
 
 - Write a Draft Cover Letter
-- Continue working on portfolio website shell
+- Paper prototype Portfolio Website
+- Bring in examples of portfolio websites that you would like to use as reference
 
 ## Week 13
 

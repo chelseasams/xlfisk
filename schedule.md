@@ -712,7 +712,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 #### Goals
 
 1. Final presentation with Fisk
-3. Begin initial planning for portfolio sites
+2. Begin initial planning for portfolio sites
 
 #### In Class
 
@@ -730,4 +730,26 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### Homework
 
+- Write a Draft Cover Letter
 - Continue working on portfolio website shell
+
+## Week 13
+
+### Monday, November 26
+
+#### Goals
+
+1. Gain insight into effective Cover Letter writing
+2. Continue work on Portfolio Website
+
+#### In Class
+
+1. Presentation with Colleen Michaels from the Writing Studio (3:30-5pm)
+2. Review and continue in-browser prototype portfolio page 
+
+#### Homework
+
+- Revise draft Cover Letter
+- Continue working on portfolio website shell
+
+

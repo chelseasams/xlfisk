@@ -705,3 +705,29 @@ A deeper dive into content and the concerns of modern front-end web development.
 2. Fieldtrip to [The Outfit](https://theout.fit/) (4-5pm)
 3. Finalize Case Study and Our Process pages for presentation
 
+## Week 12
+
+### Monday, November 19
+
+#### Goals
+
+1. Final presentation with Fisk
+3. Begin initial planning for portfolio sites
+
+#### In Class
+
+1. Review slideshow + practice presentation
+2. Presentation with Dana Sigall from [Fisk](http://www.cbfisk.com) (4-5pm)
+3. Begin working on portfolio website shell
+
+### Wednesday, November 21
+
+- **No Class** (Thanksgiving Recess)
+
+#### Goals
+
+1. Eat as much pie as humanly possible
+
+#### Homework
+
+- Continue working on portfolio website shell

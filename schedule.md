@@ -745,7 +745,7 @@ A deeper dive into content and the concerns of modern front-end web development.
 
 #### In Class
 
-1. Presentation with Colleen Michaels from the Writing Studio (3:30-5pm)
+1. Presentation with Colleen Michaels from the Writing Studio (3:30-4:30pm)
 2. Review and continue in-browser prototype portfolio page 
 
 #### Homework

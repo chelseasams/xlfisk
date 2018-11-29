@@ -753,4 +753,33 @@ A deeper dive into content and the concerns of modern front-end web development.
 - Revise draft Cover Letter
 - Continue working on portfolio website shell
 
+### Wednesday, November 28
 
+#### Goals
+
+1. Begin personalization of HTML portfolio shell
+
+#### In Class
+
+1. Continue to prototype portfolio shell, focusing on CSS customization 
+
+#### Homework
+
+- Complete initial personalization
+
+## Week 14
+
+### Monday, December 3
+
+#### Goals
+
+1. Continue work on portfolio website
+
+#### In Class
+
+1. Review and critique initial customization 
+2. Strategize next steps for further customization 
+
+#### Homework
+
+- Continue working on portfolio website shell
